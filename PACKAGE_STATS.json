@@ -1,0 +1,11 @@
+{
+  "package_name": "FlowHE-IoT_Reproducibility_Supplement_v1.1",
+  "created_utc": "2026-08-16T10:00:00+00:00",
+  "payload_file_count": 574,
+  "payload_uncompressed_bytes": 88462164,
+  "payload_uncompressed_mib": 84.36409378051758,
+  "raw_datasets_included": false,
+  "notebooks_output_stripped": true,
+  "author_citation_template_included": false,
+  "scope_note": "Payload counts exclude PACKAGE_STATS.json, FILE_MANIFEST.csv, and CHECKSUMS.sha256 to avoid self-referential metadata."
+}

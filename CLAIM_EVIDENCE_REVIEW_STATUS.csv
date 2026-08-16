@@ -1,0 +1,5 @@
+item_id,topic,status,resolution
+R001,Leakage audit A-E and exact-overlap claims,RESOLVED,Mapped Table III to leakage-audit summary and Stage A3 model evidence.
+R002,Edge-IIoTset raw/deduplicated row-count wording,RESOLVED,Dataset manifests are retained; manuscript wording must use final audited counts.
+R003,Final manuscript table numbering,RESOLVED,Table I-VI mapping finalized in MANUSCRIPT_TABLE_MAP.csv.
+R004,Final manuscript figure numbering,RESOLVED,Fig. 1-5 mapping finalized in MANUSCRIPT_FIGURE_MAP.csv.

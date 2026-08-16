@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-08-16T10:00:00+00:00",
+  "supplement_version": "1.1",
+  "final_classifier": "Linear SVM",
+  "C": 30.0,
+  "final_ckks_profile": "R_N8192_S40",
+  "poly_modulus_degree": 8192,
+  "scale_bits": 40,
+  "coeff_mod_bit_sizes": [
+    60,
+    40,
+    60
+  ],
+  "final_safe_states": [
+    "S0",
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "s30_final_policy_state": "excluded_after_boundary_stress",
+  "stage_a3": "passed",
+  "stage_c1": "passed",
+  "stage_c2": "passed",
+  "stage_c3": "passed",
+  "stage_c4": "passed",
+  "stage_c5": "passed",
+  "manuscript_claim_mapping": "finalized",
+  "manuscript_figure_mapping": "finalized",
+  "manuscript_table_mapping": "finalized"
+}

@@ -1,0 +1,7 @@
+table,content,evidence_source,generator_stage,notes
+Table I,Positioning of representative privacy-preserving computation approaches,Conceptual literature comparison; source papers are cited in the manuscript,Related Work,Non-numerical positioning only; no cross-paper accuracy/latency superiority claim.
+Table II,Summary of the experimental design,docs/EXPERIMENTAL_CONFIGURATION.md; configs/experiment.yaml,Methods,Compact summary of the frozen staged protocol.
+Table III,Leakage audit and final model performance,evidence/tables/leakage_audit/leakage_ablation_summary.csv; evidence/tables/model_choice_lr_svm_stage_a3/stage_a3_five_seed_model_summary.csv,Leakage audit / Stage A3,Combines A-E leakage audit with frozen LR and Linear SVM C=30 model results.
+Table IV,SVM C=30 boundary-sensitive CKKS admission,evidence/tables/model_choice_lr_svm_stage_c1/stage_c1_boundary_correctness_summary.csv; evidence/tables/model_choice_lr_svm_stage_c1/stage_c1_model_profile_correctness.csv,Stage C1,Boundary-set overall and own-boundary agreement are distinct from full-benchmark aggregate agreement.
+Table V,Final S40 states on the Gateway profile,evidence/tables/model_choice_lr_svm_stage_c2/stage_c2_hard_resource_state_summary.csv,Stage C2,"Gateway S0-S3 latency, throughput, and communication."
+Table VI,Refreshed IoT-23 scenario-disjoint results,evidence/tables/model_choice_lr_svm_stage_c5_iot23/stage_c5_external_model_summary.csv,Stage C5,Scenario-disjoint five-fold external validation; no zero-shot coefficient-transfer claim.
